@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=550&lines=_+_+_+_+I+Am+a+Full+Stack+Web+Developer+🚶)](https://git.io/typing-svg)
+<img src= "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
     
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.Js**
